@@ -6,6 +6,8 @@ repo_url: "https://github.com/SwethaBoda"
 nav:
 - Home: home.md
 
+
+
 theme:
   name: material
   features:
@@ -75,4 +77,4 @@ markdown_extensions:
 - attr_list
 
 copyright: |
-  &copy; <a href="https://github.com/SwethaBoda"  target="_blank" rel="noopener">botlar4</a>
+  &copy; <a href="https://github.com/SwethaBoda"  target="_blank" rel="noopener">swetha27</a>
