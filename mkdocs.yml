@@ -6,6 +6,7 @@ repo_url: "https://github.com/SwethaBoda"
 nav:
 - Home: home.md
 - PositiveIsoltion: PositiveIsolation.md
+- Formula: formula.md
 
 
 
